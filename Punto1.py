@@ -1,3 +1,8 @@
+"""El siguiente codigo calcula e imprime
+Simulacion para estimar el valor teorico de la probabilidad enunciado en el teorema de 6 / π ^ 2
+Autor: Maria Camila Vargas Giraldo 
+Ultima actualización: 10 de octubre / 2021 """
+
 #La siguiente funcion se queda solo con los valores que estan repetidos.
 def frecuencia(lista):
     f = []
